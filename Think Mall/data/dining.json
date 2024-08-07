@@ -1,0 +1,618 @@
+{
+  "Coffee Shops in Dubai From Around the World": {
+    "Costa Coffee": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5631",
+      "Location": "China Court",
+      "Description": "A small business that started back in 1971, Costa Coffee has now gone on to be one of the best things to happen to the coffee industry. It ranks amongst the largest coffee shops in the UK and has now graced the shores of Dubai. Costa Coffee Dubai still stays true to what made it famous. Set in an eye catching location at Ibn Battuta Mall, Costa Coffee is ideal for a quick bit or for a business meeting.",
+      "Similar Brands": "CAFEBARBERA, JAMAICA BLUE, ALPYS CAFE",
+      "Other Info": NaN
+    },
+    "Gloria Jean's Coffee": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 55 4025679",
+      "Location": "Egypt Court",
+      "Description": "With over nine hundred coffee shops across the world, it is safe to say that Gloria Jeans Coffees is a favorite among coffee lovers. Take a walk into the Gloria Jeans Coffee Dubai store at Ibn Battuta Mall and discover what makes this Australian based coffee shop such a favorite. With a beautiful interior, calm surroundings and friendly staff members and of course unparalleled coffee and food, it is difficult to resist a visit to Gloria Jeans.",
+      "Similar Brands": "CINNABON, COSTA COFFEE, TIM HORTON'S",
+      "Other Info": NaN
+    },
+    "Papparoti": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 330 0717",
+      "Location": "Egypt Court",
+      "Description": "From the outside, PappaRoti Dubai doesnt seem like much. Their signature dish is a coffee coated bun served with a number of beverages. But one bite into that bun will take you through a range of textures and layers that will put you under a spell. Starting with the coffee crust till the buttery centre, their freshly made buns are a sensory delight and if you have not tasted them, you are missing out on a lot in life!",
+      "Similar Brands": "KAHVE DUNYASI, STARBUCKS, GLORIA JEAN'S COFFEE",
+      "Other Info": NaN
+    },
+    "PAUL": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 557 9834",
+      "Location": "Persia Court",
+      "Description": "Paul Caf\u00e9 Dubai has its roots as a little bakery in France over a century ago. Their close attention to tradition and using only the best ingredients around has helped them turn into the international brand they are now. At Paul Bakery, you can find a wide selection of bread, sandwiches and more that are an iconic part of Frances cuisine. At the heart of Paul Restaurant, success is their focus on providing fresh produce.",
+      "Similar Brands": "KAHVE DUNYASI, ALPYS CAFE, CINNABON",
+      "Other Info": NaN
+    },
+    "Tim Horton's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0552136322",
+      "Location": "India Court",
+      "Description": "Famous for their range of premium coffee, Tim Hortons Cafe and Bake Shop Dubai does not need much of an introduction. The Canadian-based franchise operates in the quick service sector and appeals to people of all tastes thanks to their wide ranging menu of coffee, tea, soup, sandwiches and more. You can count on them for fresh food at all times while their great service means youll feel right at home at their Ibn Battuta Mall outlet.",
+      "Similar Brands": "TIM HORTON'S, JAMAICA BLUE, STARBUCKS",
+      "Other Info": NaN
+    },
+    "Cinnabon": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5635",
+      "Location": "Tunisia Court",
+      "Description": "For the most exotic cinnamon spiced buns, there is hardly any place better than Cinnabon Dubai. What began as a simple game between a dad and his son has turned in to a worldwide franchise that is synonymous with the term cinnamon buns. Opened first in 1985 , Cinnabon makes use of the most exotic ingredients from around the country; for instance, the Cinnabon Makara Cinnamon makes use of ingredients from the rainforests of Indonesia, delivering a masterpiece on to your plate.",
+      "Similar Brands": "ILLY CAFFE, COSTA COFFEE, STARBUCKS",
+      "Other Info": NaN
+    },
+    "Cold Stone": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 564041801",
+      "Location": "Tunisia Court",
+      "Description": "Sit down for the ultimate ice cream experience at Coldstone Creamery Dubai. Select from the most inimitable ice cream creations to cakes and milkshakes. With a long menu, nothing says indulgence like a stop here! First opened in 1988, Coldstone Creamery use their own unique process to prepare your selection while only the highest quality ingredients from across the world are used. They come with 20 years of experience behind them and there arent many who can satisfy your sweet snacks cravings better!",
+      "Similar Brands": "ILLY CAFFE, MISTICA, ALPYS CAFE",
+      "Other Info": NaN
+    },
+    "Jamaica Blue": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "043699316",
+      "Location": "Tunisia Court",
+      "Description": "Jamaica Blue Dubai won the hearts of every coffee lover in Dubai due to their aggressive emphasis on using only fresh ingredients and providing a passionate service to all its patrons. This singled minded attitude has helped Jamaica Blue experiment with a number of styles ranging from full blown restaurants to little hole in the wall coffee shops. This experimenting also resulted in a number of unique beverages that have gone on to be widely sought after by visitors to the caf\u00e9.",
+      "Similar Brands": "DUNKINS, ORMADO KAFFEEHAUS, STARBUCKS",
+      "Other Info": NaN
+    },
+    "Starbucks": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "044190029",
+      "Location": "Persia Court",
+      "Description": "As the leading coffee company, Starbucks is well-known across the world. With unwavering focus on providing a great service to anyone who walks into their outlet, you can now enjoy the Starbucks experience at Ibn Battuta Mall. Starbucks Coffee & Espresso Drinks in Dubai has a unique ordering mechanism that allows you to customize every single aspect of the coffee so you can now enjoy your coffee exactly how your taste buds want it!",
+      "Similar Brands": "ORMADO KAFFEEHAUS, CAFFE DIVINO, MISTICA",
+      "Other Info": NaN
+    },
+    "Mistica": {
+      "Working Hours": "Open at 8:00 AM",
+      "Contact Number": "045786236",
+      "Location": "China Court",
+      "Description": "we are caf\u00e9 with a diversified concept that combines Arab and western food and beverages with shisha",
+      "Similar Brands": "STARBUCKS, HAPPY LEMON, STARBUCKS",
+      "Other Info": NaN
+    },
+    "CafeBarbera": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0565476466",
+      "Location": "Tunisia Court",
+      "Description": "It all starts with coffee from Italys oldest coffee roasting company.",
+      "Similar Brands": "STARBUCKS, CAFFE DIVINO, DUNKINS",
+      "Other Info": "Southern Italy 1870. The bracing air of early morning is enriched with intense fragrance in via Garibaldi where the little shop of colonial products radiate light and aromas onto the street. The source of this aroma is the coffee shop of Domenico Barbera, \u201cthe magician\u201d, as his affectionate customers nicknamed him. Every day Domenico roasts fresh coffee with passion and dedication on his new coal-fired roaster, \u201cTornado\u201d that was pride and joy of the Barbera family.\n"
+    },
+    "Kahve Dunyasi": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 572 7738",
+      "Location": "India Court",
+      "Description": "Established in the year 2004, Kahve Dunyasi is a household name with over 200 stores in Turkey. Kahve Dunyasi has now expanded to Britain, Romania, Kuwait, Saudi Arabia, and UAE.",
+      "Similar Brands": "ALPYS CAFE, HAPPY LEMON, LATEA",
+      "Other Info": "Kahve Dunyasi Dubai is well known for its chocolates, coffee, cakes, and ice cream. Our chocolates are made from first-class cocoa beans selected from the best origins in the world and are processed in the second-largest chocolate factory in the world: Altinmarka.\nIf you're looking for one of the best coffee places in Dubai, look no further than Kahve Dunyasi Dubai. Delight your tastebuds with the flavors of Turkey.\n"
+    },
+    "Latea": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0526642709",
+      "Location": "Persia Court",
+      "Description": "\"LATEA\" is a Boba Milk and Fruit Tea Shop where you find all kinds of tea. We sell healthy Fruit Tea which is best according to your health and physique. It is according to the calories one requires.",
+      "Similar Brands": "CAFFE DIVINO, DUNKINS, HAPPY LEMON",
+      "Other Info": "Latea is different from other Fruit Tea Centers. It is healthy, low on calories, probiotic, refreshing and great tasting. We use only high quality ingredients. \nThe ingredients are all natural and do not include any preservatives or color.\n"
+    },
+    "Alpys Cafe": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 440 5961",
+      "Location": "India Court",
+      "Description": "Here at ALPYS we offer a special range of food & beverage prepared by our chefs from the finest, carefully selected ingredients. Travel on a trip around the world with international, Italian and Mexican dishes in a modern, relaxed atmosphere and distinctive service",
+      "Similar Brands": "STARBUCKS, TIM HORTON'S, MISTICA",
+      "Other Info": NaN
+    },
+    "Happy Lemon": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "044580397",
+      "Location": "Andalusia Court",
+      "Description": "Happy Lemon serves traditional Taiwanese bubble tea and special flavored drinks. They use the best quality tea and combine it with naturally fresh lemon to make every single cup of their product the yummiest drink in the world.",
+      "Similar Brands": "TIM HORTON'S, CAFEBARBERA, TIM HORTON'S",
+      "Other Info": NaN
+    },
+    "Caffe Divino": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "043310266",
+      "Location": "India Court",
+      "Description": "Caffe Divino is an Italian Gelateria serving fresh & \ndelightful varieties of Italian Gelato, pastries, sandwiches & Italian coffee powered by Lavazza.\n\nWorking Hours:\nWeekdays 10AM to 10PM,\nWeekends 10AM to 12AM",
+      "Similar Brands": "MISTICA, HAPPY LEMON, CAFEBARBERA",
+      "Other Info": NaN
+    },
+    "Ormado Kaffeehaus": {
+      "Working Hours": "Open at 8:30 AM",
+      "Contact Number": "045858097",
+      "Location": "India Court",
+      "Description": "Ormado Kaffeehaus is an international german brand. The key factor in the company's professional approach to business is customer satisfaction. Ormado Kaffeehaus, which is an exclusive brand with its unique taste and wide varieties, in parallel, presents its coffee house culture with a pleasant atmosphere.",
+      "Similar Brands": "HAPPY LEMON, STARBUCKS, CAFFE DIVINO",
+      "Other Info": NaN
+    },
+    "Dunkins": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045865057",
+      "Location": "Andalusia Court",
+      "Description": "Dunkin first opened its doors in the UAE in May 1997 and has since grown to 65 stores. Dunkins menu is full of great-tasting items that will get you going throughout your day, from handcrafted coffee, to iced beverages and Frapp\u00e9s, to 50+ varieties of donuts and freshly prepared all-day breakfast.\n\nDunkin' goes above and beyond to make sure that every cup of coffee served is as good as the last one.\n\nWith strict quality processes, and freshly ground and brewed coffee in a variety of delicious flavors, Dunkins is every coffee lovers destination.",
+      "Similar Brands": "CAFEBARBERA, MISTICA, TIM HORTON'S",
+      "Other Info": NaN
+    },
+    "illy Caffe": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "589039169",
+      "Location": "Persia Court",
+      "Description": "ITS ALWAYS THE MOMENT TO SAVOUR A PERFECT COFFEE\n In every moment you encounter illy and live the outstanding experience of excellence, beauty and design. Found in the heart of the most beautiful cities in the world. illycaff\u00e8 is an Italian family business, founded in Trieste in 1933 and committed to offering the greatest coffee to the world. illycaff\u00e8 produces a unique 100% Arabica blend, combining 9 of the best varieties in the world, selected by illycaff\u00e8.",
+      "Similar Brands": "COLD STONE, CAFEBARBERA, TIM HORTON'S",
+      "Other Info": NaN
+    }
+  },
+  "Food Courts Restaurants": {
+    "Bombay Chowpatty": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 3682807",
+      "Location": "Tunisia Court",
+      "Description": "If you are looking for a culinary experience that differs from the usual subs and burgers, the crowd favorite that is Bombay Chowpatty Restaurant Dubai is a great option to consider. Hang out with your friends over a cup of chai or take a trip to Mumbai with Bombay Chowpattys range of spicy and tantalizing dishes. With reasonable prices and Indias most exotic dishes on the menu, there is absolutely no reason not to visit.",
+      "Similar Brands": "CHARLEY'S SUBS, THAIFOON, NOON-O-KABAB",
+      "Other Info": NaN
+    },
+    "Umami": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 4357588",
+      "Location": "Tunisia Court",
+      "Description": "Dubai has no shortage of eateries that serve Far Eastern cuisine. Umami Restaurant knows that better than most so they have gone and carefully curated a menu that includes Far Eastern dishes that you would be hard pressed to find elsewhere in the Emirate. Rather than focusing on authenticity, they opt for more modern dishes that are served in a quick format manner making them ideal for the urban crowd and offering a unique experience to the residents of Dubai.",
+      "Similar Brands": "POTATO CORNER, CHINESE PALACE RESTAURANT, CHICKING",
+      "Other Info": NaN
+    },
+    "Charley's Subs": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 569980567",
+      "Location": "Tunisia Court",
+      "Description": "A worldwide franchise that focuses on submarines and sandwiches, Charley's Grilled Subs Dubai prepares food right in front of you so you can say goodbye to the days of stale food! Their extensive menu consists of a range of salads, gourmet fries and of course, Philly steaks. Founded back in 1986, Charley's Grilled Subs prepare meals to the exact specs of the customer. Visit us today at Ibn Battuta Mall for the best of classic American cuisine.",
+      "Similar Brands": "STEERS, AUTOMATIC, PAPA JOHNS PIZZA",
+      "Other Info": NaN
+    },
+    "Krispy Kreme Doughnuts": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971556026571",
+      "Location": "Tunisia Court",
+      "Description": "Discover the richest and highest quality doughnuts here at Krispy Kreme Dubai. Famed for their Original Glazed doughnut that shot them to stardom back in 1937, Krispy Kreme serves fresh out of the oven doughnuts. Doughnuts are not the only thing they are famous for, they are well-known for their Krispy Kreme coffee too. With a range of coffee blends for people of all tastes and freshly brewed, a sip of their coffee is a must!",
+      "Similar Brands": "AL SAFEER, AUTOMATIC, MADAM PHO",
+      "Other Info": NaN
+    },
+    "Chinese Palace Restaurant": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5009",
+      "Location": "Tunisia Court",
+      "Description": "Chinese Palace Restaurant Dubai began in 1980 with the aim of bringing true Chinese cuisine to the glittering city of Dubai. By never straying too far away from their original goal, Chinese Palace Restaurant has cultivated a strong following of patrons in Dubai over its life span of thirty three years. With imperial interior decorations and some of the friendliest staff members you can ever come across, it is hardly a surprise that they have established themselves at the pinnacle of the culinary scene in Dubai.",
+      "Similar Brands": "KORYO, KFC, SHAKEYS",
+      "Other Info": NaN
+    },
+    "Ichikura": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 4428126",
+      "Location": "Persia Court",
+      "Description": "Serving authentic Japanese dishes, Ichikura Dubai is easily the benchmark when it comes to far east cuisine. With a menu that has been watchfully curated by world class chefs, Ichikura serves a variety of Japans most famous dish; the iconic Ramen. Made with carefully chosen ingredients, their Ramen perfectly strikes the balance between flavor and nutrition, delivering to you a delightful experience that is set within a bowl. With sushi and more on board, you are set for a complete adventure into Japanese cuisine.",
+      "Similar Brands": "CHARLEY'S SUBS, KFC, UMAMI",
+      "Other Info": NaN
+    },
+    "Noon-O-Kabab": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971558791280",
+      "Location": "Tunisia Court",
+      "Description": "Noon-o-Kabab is highly regarded as the best option when it comes to a fast casual Persian dining experience. All their dishes are made with the most luxurious ingredients that ensure a highly authentic dish that is flavourful and appealing. It is hardly a surprise that they are held in such great esteem by both locals and expats in Dubai. They have a highly successful catering service while their delivery branch stands up to par with the competition.",
+      "Similar Brands": "STEERS, BUBEE DRINKS, MADAM PHO",
+      "Other Info": NaN
+    },
+    "Automatic": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045467629",
+      "Location": "Tunisia Court",
+      "Description": "First opened in 1977, it is safe to say that Automatic Restaurant & Grill in Dubai has plenty of experience in UAEs culinary scene. Serving authentic Lebanese dishes, it was primarily aimed at the locals in UAE but its appetizing dishes and more than generous portions meant they quickly became in the country. Fast forward the decades and the restaurant still stays true to its original vision of simplicity and great taste.",
+      "Similar Brands": "HARDEES , MACAO IMPERIAL TEA, KFC",
+      "Other Info": NaN
+    },
+    "Tapa king": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "04-5879522",
+      "Location": "Persia Court",
+      "Description": "We are the only specialised fast-casual filipino tapa restaurant that upholds authentic pinoy ways of cooking tapa. Using freshly prepared and real ingredients. Through our attentiveneness and progressiveness in R&D ,food preparation and service, Our gusts taste distinct pinoy flavor and feel special valued and cared for",
+      "Similar Brands": "BUBEE DRINKS, HARDEES , WENDY'S",
+      "Other Info": NaN
+    },
+    "McDonald's": {
+      "Working Hours": NaN,
+      "Contact Number": "043685611",
+      "Location": "Tunisia Court",
+      "Description": NaN,
+      "Similar Brands": NaN,
+      "Other Info": NaN
+    },
+    "Mc Donalds": {
+      "Working Hours": NaN,
+      "Contact Number": "0569953713",
+      "Location": "Persia Court",
+      "Description": NaN,
+      "Similar Brands": NaN,
+      "Other Info": NaN
+    },
+    "Pizza Hut": {
+      "Working Hours": NaN,
+      "Contact Number": "0555506314",
+      "Location": "Tunisia Court",
+      "Description": NaN,
+      "Similar Brands": NaN,
+      "Other Info": NaN
+    },
+    "BUBEE DRINKS": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0521138166",
+      "Location": "Tunisia Court",
+      "Description": "Bubee Drinks Cafe was born in June 2018 in Dubai. Since the opening of our first store, we've developed a good brand image and received even better feedback. So that more and more people like our drinks, Asia as the main consumer group formed a certain influence and brand loyalty!w\n\nAt Bubee Drinks Dubai, we focus on the core concept of conscience as a product, insisting on using fresh tea, fresh milk, and fresh fruits as the main raw materials for product research and development. We seek to use high-quality materials to provide customers with delicious drinks worth their value. Now it has become a well-reputed new drink brand in Dubai and opened more than seven direct stores with stable and rapid momentum!\n\nVisit us today and see why people claim we have the best bubble tea in Dubai.",
+      "Similar Brands": "KORYO, MC DONALDS, DEBONAIRS PIZZA",
+      "Other Info": NaN
+    },
+    "Manila Street Food": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0502775524",
+      "Location": "Persia Court",
+      "Description": NaN,
+      "Similar Brands": "KHAU GALLI RESTAURANT, TAZA, CHICKEN SHACK",
+      "Other Info": NaN
+    },
+    "Island Tea": {
+      "Working Hours": "Open at 7:00 AM",
+      "Contact Number": "052 3545905",
+      "Location": "Persia Court",
+      "Description": NaN,
+      "Similar Brands": "STEERS, SIZZLIN' STEAK, BOMBAY CHOWPATTY",
+      "Other Info": NaN
+    },
+    "AL SAFEER": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 55 4025775",
+      "Location": "Tunisia Court",
+      "Description": "While everybody loves the concept of Arabian fast food, not many restaurants have the knowledge nor the skills to pull it off. Al Safeer Restaurant is one of the few in the trade who have mastered the art of Middle Eastern food. Although Dubai has been swarmed with Michelin-starred restaurants and celebrity chefs over the years, Al Safeer has held its own to firmly establish itself as a must-visit eatery in Dubai.",
+      "Similar Brands": "KORYO, JOLLIBEE, MCDONALD'S",
+      "Other Info": NaN
+    },
+    "Chicking": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 503551913",
+      "Location": "Persia Court",
+      "Description": "A fast growing fast-food chain in the Middle East, Chickings secret ingredient has been luring back customers for the last few years. Chicking Dubai makes use of a number of rare herbs and spices to bring the best in their meat offering some of the most mouthwatering dishes to its patrons. With customizable meals and everything from chicken buckets to biryanis and desserts, there is a lot to like when it comes to Chicking.",
+      "Similar Brands": "CHINESE PALACE RESTAURANT, PIZZA HUT, PAPA JOHNS PIZZA",
+      "Other Info": NaN
+    },
+    "KFC": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0551987350",
+      "Location": "Persia Court",
+      "Description": "KFC Jebel Ali - this fast food restaurant in Dubai hardly needs an introduction. Founded by the now world-famous Colonel Harland Sanders, KFC is just the place to have the crispiest and most succulent chicken. Made with a secret receipt that countless have tried to replicate only to fail, KFC has no rival when it comes to the business of providing \u201cfinger licking good\u201d chicken. Other than chicken, they offer a range of desserts and side dishes for a great all-around dinner out.",
+      "Similar Brands": "PUSHKIN, ISLAND TEA, NOON-O-KABAB",
+      "Other Info": NaN
+    },
+    "Pushkin": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0552700017",
+      "Location": "Tunisia Court",
+      "Description": "Alexander Sergeyevich Pushkin was a Russian poet, playwright, and novelist of the Romantic era who is considered by many to be the greatest Russian poet and the founder of modern Russian literature. Drawing the inspiration from the rich Russian culture enriched by Alexander Pushkin, Pushkin Restaurant, aims to cherish the Russian culture through the preparation of mouthwatering Russian food. Hence the chosen name \u201cPushkin\u201d, in honor of the Russian heritage. The brand name expresses the theme of the cuisine and pays homage to the Russian culture.",
+      "Similar Brands": "CHICKING, RAZON'S, BUBEE DRINKS",
+      "Other Info": NaN
+    },
+    "Wendy's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0566812761",
+      "Location": "Tunisia Court",
+      "Description": "Wendy's Dubai delivers a variety of mouth-watering dishes that make use of only the highest quality ingredients and deliver them in a relaxed surrounding. With passionate employees and a menu that caters to people of all budgets and tastes, they place a great emphasis on fresh foods which is why most of their food is made only after you order. With great tasting salads and Angus beef burgers, Wendys has plenty to love when it comes to their menu.",
+      "Similar Brands": "SUSHI YOUR WAY, RAZON'S, STEERS",
+      "Other Info": NaN
+    },
+    "Chicken Shack": {
+      "Working Hours": "Open at 9:00 AM",
+      "Contact Number": "0521767260",
+      "Location": "Persia Court",
+      "Description": "Our motto is Epitome of Taste and Quality, with Affordability - the driving force behind delicious meals at one of the best fast food restaurants in Dubai.",
+      "Similar Brands": "HARDEES , AL SAFEER, PIZZA HUT",
+      "Other Info": NaN
+    },
+    "KORYO": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 221 5179",
+      "Location": "Tunisia Court",
+      "Description": NaN,
+      "Similar Brands": "WENDY'S, AUTOMATIC, CHICKEN SHACK",
+      "Other Info": NaN
+    },
+    "Razon's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045149367",
+      "Location": "Persia Court",
+      "Description": "Razons of Guagua is a popular casual dining restaurant that serves authentic kapampangan cuisine & Filipino favorites.",
+      "Similar Brands": "MADAM PHO, SUSHI YOUR WAY, STEERS",
+      "Other Info": NaN
+    },
+    "Papa Johns Pizza": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045754935",
+      "Location": "Persia Court",
+      "Description": "Better ingredients. Better pizza In 1984, Papa John's opened its doors with one goal in mind: Better Pizza. We knew that with better ingredients we would create better pizzas. That goal and the promise of \"Better ingredients. Better pizza.\" remain true to this day. Our fundamental belief is simple: take care of your people and give them the best to work with and you will make superior quality pizza. This is what drives us and it's why we invest more than many others in the industry in our effort to consistently deliver superior pizza and superior service.",
+      "Similar Brands": "DEBONAIRS PIZZA, CHINESE PALACE RESTAURANT, ICHIKURA",
+      "Other Info": NaN
+    },
+    "Shakeys": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "504300968",
+      "Location": "Persia Court",
+      "Description": "Shakeys is and has always been about serving fun to the guest. Shakey's Pizza is a pizza restaurant chain based in the United States. Founded in 1954, it was the first franchise pizza chain in the United States. In 1968, the chain had 342 locations. The chain had about 500 stores globally, and 58 in the United States, as of July 2019.",
+      "Similar Brands": "MANILA STREET FOOD, KFC, WENDY'S",
+      "Other Info": NaN
+    },
+    "Taza": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 331 4554",
+      "Location": "Tunisia Court",
+      "Description": "Al Tazaj Fakieh Bar B.Q Chicken is a private limited company. Its parent company, Fakieh Poultry Farms is owned by Sheikh Abdul Rahman Fakieh. Al Tazaj's flagship restaurant, Taza opened its door for business with its first outlet in Makkah, in the Kingdom of Saudi Arabia in 1989. To date, there are 110 Taza restaurant in the Middle East.\n\nThe word 'Tazaj' denotes freshness. Taza chicken (spring chicken/baby chicken) are delivered fresh every morning, direct from the farm. Al Tazaj operates its restaurant based on this strict principle of quality service, cleanliness and freshness. Al Tazaj restaurants serve a healthy and well-balanced meals of mainly Bar B. Q. chicken. The commissary teams prepare the chicken using a high-technology process that assures maximum quality and flavor, based on Al Tazaj's unique traditional family recipe.",
+      "Similar Brands": "MANILA STREET FOOD, STEERS, POTATO CORNER",
+      "Other Info": NaN
+    },
+    "Hardees ": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0586829900",
+      "Location": "Tunisia Court",
+      "Description": "If youve got an appetite, for big, juicy burgers, nobody does it better than Hardees. With their iconic chargrilled burgers, crave-worthy curly fries and trademark hand-scooped shakes, Hardees is the place where hunger meets its match. Even if it does get a little messy in the process.",
+      "Similar Brands": "JOLLIBEE, MACAO IMPERIAL TEA, NOON-O-KABAB",
+      "Other Info": NaN
+    },
+    "Thaifoon": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045841310",
+      "Location": "Tunisia Court",
+      "Description": "After some renovations, this restaurant has gone through one heck of a transformation. The decor is super chic, the flatwear and dishes are super trendy and the presentation is impeccable.",
+      "Similar Brands": "WENDY'S, SHAKEYS, PAPA JOHNS PIZZA",
+      "Other Info": "I always liked Thaifoon. My last visit was definitely the best service I've had yet. The food tastes the same (delicious) so you won't be in for a real change in that regard. They had an amazing vanilla tea I still think about to this day.\n"
+    },
+    "Sushi Your Way": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "048761186",
+      "Location": "Persia Court",
+      "Description": "Sushi your way is a Japanese fast food restaurant. You can enjoy delicious food with an affordable price. Try authentic Japanese food with fast food style.",
+      "Similar Brands": "NOON-O-KABAB, KFC, THAIFOON",
+      "Other Info": NaN
+    },
+    "Macao Imperial Tea": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0501179218",
+      "Location": "Persia Court",
+      "Description": "Although known globally as the \u2018Vegas of China, Macau is more than just casinos. The city of Macau is beautiful, vibrant, and alive, and this change in perspective is what we want the world to see.\n\nAs one of the fastest-growing cafe chains that's proudly born in Macau, Macao Imperial Tea takes a deeply-rooted approach that highlights a mix of the rich Macanese culture and a personalised experience.\n\nGeniune, memorable, and special--this is what Macao Imperial Tea Dubai brings in each and every cup thats specially made FOR YOU. Visit us today at Ibn Battuta Mall and discover why we're considered one of the best coffee shops in Dubai.",
+      "Similar Brands": "CHARLEY'S SUBS, SIZZLIN' STEAK, WENDY'S",
+      "Other Info": NaN
+    },
+    "Potato Corner": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045578197",
+      "Location": "Persia Court",
+      "Description": "The world's best flavoured french fries since October 1992! Visit the best french fries spot in Dubai today right at Ibn Battuta Mall.",
+      "Similar Brands": "MC DONALDS, MCDONALD'S, PIZZA HUT",
+      "Other Info": NaN
+    },
+    "Madam Pho": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045878842",
+      "Location": "Tunisia Court",
+      "Description": "Madam Pho is a fast-food restaurant that serves Vietnamese cuisine with quick and efficient service. We offer a limited menu of popular Vietnamese dishes such as Pho, Banh Mi, Summer Rolls, Spring Rolls, and Noodle Bowls, prepared with fresh, high-quality ingredients. The ambiance is casual, and our focus is on delivering fast and affordable food that is flavorful, healthy, and convenient for on-the-go dining. Madam Pho also offers delivery and take-out options to cater to the needs of busy customers.",
+      "Similar Brands": "KHAU GALLI RESTAURANT, CHICKEN SHACK, SUSHI YOUR WAY",
+      "Other Info": NaN
+    },
+    "Debonairs Pizza": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "600500107",
+      "Location": "Persia Court",
+      "Description": "TRY SOMETHING AMAZING",
+      "Similar Brands": "ICHIKURA, MANILA STREET FOOD, MC DONALDS",
+      "Other Info": NaN
+    },
+    "Steers": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "600500107",
+      "Location": "Persia Court",
+      "Description": "ORIGINAL KING STEER BURGERS AND FLAME GRILLED CHICKEN",
+      "Similar Brands": "PAPA JOHNS PIZZA, PIZZA HUT, CHICKING",
+      "Other Info": NaN
+    },
+    "Jollibee": {
+      "Working Hours": "Open at 8:00 AM",
+      "Contact Number": "600 58 7000",
+      "Location": "Persia Court",
+      "Description": "The fast-growing restaurant chain named as Thrillists Best International Restaurant Chain, where thousands of people queue up around the world for Jollibees world-famous extra crispy, extra tasty, and juicy Chickenjoy. Also been cited as Americas \u201cBest Chain Fried Chicken\u201d by Eater Magazine. Other favorites include Spicy Chickenjoy with all the goodness of Chickenjoy made spicy inside and out; the Spicy Chicken Sandwich, Jollibees deliciously spicy, crunchy, juicy chicken sandwich and Peach Mango Pie made with real peach and mango with a crispy flaky crust. We are present in over 1500 locations in 17 countries. Currently operating 20 stores across UAE. ",
+      "Similar Brands": "PAPA JOHNS PIZZA, KFC, PUSHKIN",
+      "Other Info": "Timings : \n- Monday to Thursday : 8:00 AM to 11:00 PM\n- Friday to Sunday : 8:00 AM to 12:00 AM\nOur contact information\n- customercare@jollibeeuae.com.\n- www.jollibeeuae.com.\n- 600 58 7000.\n"
+    },
+    "Sizzlin' Steak": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "056 421 6705",
+      "Location": "Tunisia Court",
+      "Description": "Serving meals on  a SIZZLIN' PLATE since 2007",
+      "Similar Brands": "THAIFOON, TAZA, BOMBAY CHOWPATTY",
+      "Other Info": NaN
+    },
+    "Khau Galli Restaurant": {
+      "Working Hours": "Open at 8:00 AM",
+      "Contact Number": "0554645864",
+      "Location": "Tunisia Court",
+      "Description": "At Khau Galli, the taste of India is presented in a unique way. Love Indian food? Well, you have definitely come to the right place.\n\nOur top chefs are constantly working towards sizzling and spicy Indian cuisine. Visit us for a variety of food choices and professional services with a beautiful atmosphere to spend the day with your friends and family.",
+      "Similar Brands": "PUSHKIN, TAZA, SHAKEYS",
+      "Other Info": NaN
+    }
+  },
+  "Ice Cream and Dessert": {
+    "Cold Stone": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 564041801",
+      "Location": "Tunisia Court",
+      "Description": "Sit down for the ultimate ice cream experience at Coldstone Creamery Dubai. Select from the most inimitable ice cream creations to cakes and milkshakes. With a long menu, nothing says indulgence like a stop here! First opened in 1988, Coldstone Creamery use their own unique process to prepare your selection while only the highest quality ingredients from across the world are used. They come with 20 years of experience behind them and there arent many who can satisfy your sweet snacks cravings better!",
+      "Similar Brands": "STARBUCKS, LATEA, PAUL",
+      "Other Info": NaN
+    },
+    "Baskin Robbins": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "043685227",
+      "Location": "Tunisia Court",
+      "Description": "With over 7800 stores around the world, the franchise is the worlds largest chain of specialty stores; one bite into a Baskin Robbins' cake will make you understand exactly why they are adored. With over 1300 flavors when it comes to ice cream, there is something for everyone. Drop into the Baskin Robbins Dubai today for a delightful experience!",
+      "Similar Brands": "COLD STONE, BASKIN ROBBINS, CAFFE DIVINO",
+      "Other Info": NaN
+    },
+    "Caffe Divino": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "043310266",
+      "Location": "India Court",
+      "Description": "Caffe Divino is an Italian Gelateria serving fresh & \ndelightful varieties of Italian Gelato, pastries, sandwiches & Italian coffee powered by Lavazza.\n\nWorking Hours:\nWeekdays 10AM to 10PM,\nWeekends 10AM to 12AM",
+      "Similar Brands": "TIM HORTON'S, ORMADO KAFFEEHAUS, JAMAICA BLUE",
+      "Other Info": NaN
+    }
+  },
+  "Restaurants": {
+    "Barbeque Delights": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 5668479",
+      "Location": "China Court",
+      "Description": "Famed for its exemplary blend of South Asian culinary arts and Central Asian arts, Barbecue Delights is a sensory delight for just about anyone. With the aim to be a comprehensive international eatery, it pays tribute to a number of cultures and cuisines. For those looking for a bit of adventure for their next dinner, Barbecue Delights at Ibn Battuta Mall, Dubai is a highly recommended choice that never disappoints anyone; whether a casual diner or a foodie. ",
+      "Similar Brands": "VERDURA, KAMAT, HADOOTA MASREYA",
+      "Other Info": NaN
+    },
+    "Pizza Express": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5134",
+      "Location": "China Court",
+      "Description": "Pizza Express Dubai has a deep passion for Italian cuisine, one that can be linked back to the person who started it all; Peter Boizot. Unsatisfied by the quality of pizza in England, he ordered the true Italian oven, broke down the wall to fit in his tiny restaurant and opened the first Pizza Express. Known for their excellent dishes, evocative music and eye-catching interior d\u00e9cor, the Pizza Express experience is so much more than just food.",
+      "Similar Brands": "COTERIE SOCIAL AND KITCHEN, T.G.I. FRIDAY'S, ROYAL ORCHID RESTAURANT",
+      "Other Info": NaN
+    },
+    "Tony Roma's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5655",
+      "Location": "China Court",
+      "Description": "Tony Roma's Restaurant Dubai is a casual dining eatery that offers a number of beloved dishes like steaks and seafood. With around four decades of experience behind them, they are held in high esteem when it comes to the restaurant industry. Their Baby Back Ribs was their signature dish that shot them to stardom but now they offer a varied menu to cater to a broad group of people which includes unique desserts and starters.",
+      "Similar Brands": "BARBEQUE DELIGHTS, NANDO'S, HATAM RESTAURANT",
+      "Other Info": NaN
+    },
+    "Verdura": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 3509350",
+      "Location": "Persia Court",
+      "Description": "If you are looking for a change, Verdura Restaurant is a fine option that is well worth a visit. Offering a blend of Mediterranean cuisine that draws in inspiration from Greek, Italian and Levant cuisines, Verdura Restaurant aims to reconnect their patrons with nature. To top it off, their location is a perfect imitation of a Mediterranean spot complete with Mediterranean trees and its classic architecture. This is definitely one of the most unique eateries you can find in Dubai!",
+      "Similar Brands": "XENIA CAFE AND LOUNGE, OFF THE HOOK, THE QASAB",
+      "Other Info": NaN
+    },
+    "Xenia Cafe and Lounge": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 551 6503",
+      "Location": "China Court",
+      "Description": "A chic little eatery hidden deep inside Ibn Battuta Mall, Xenia Cafe Lounge Dubai is definitely one of the most beautiful establishments in the mall. It has its own outdoor seating area and an interior d\u00e9cor that just oozes elegance and beauty. Looks aside, Xenia Cafe Lounge serves a number of appetizing dishes. Expect to find everything in between soups to pasta and sandwiches. With rave reviews from everyone who has visited the restaurant, you cannot go wrong with this choice.",
+      "Similar Brands": "T.G.I. FRIDAY'S, TONY ROMA'S, COTERIE SOCIAL AND KITCHEN",
+      "Other Info": NaN
+    },
+    "Yakitate": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 294 4883",
+      "Location": "Andalusia Court",
+      "Description": "Since opening a Japanese boutique in Dubai, Yakitate has become renowned for the contemporary appeal that is always added to soulful baking rooted in Japanese tradition.",
+      "Similar Brands": "OFF THE HOOK, BARBEQUE DELIGHTS, GAZEBO",
+      "Other Info": "Our main goal was to create a perfect Japanese caf\u00e9 experience right here in Dubai. Upon entering the caf\u00e9, you will be astonished by the variety of cakes, pastries and breads. Absolutely everything is made on the premises and we do not use any preservatives.\n"
+    },
+    "Royal Orchid Restaurant": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045655123",
+      "Location": "China Court",
+      "Description": "With multiple awards under its belt, you cannot go wrong with Royal Orchid restaurant in Dubai. The restaurant focuses on Far East cuisine, more specifically, Thailands revered cuisine. You can find most of the Far Easts signature dishes, such as the Royal Asian Duck Salad and so many more dishes you might not even know! If you are in the mood to try out something new, then Royal Orchid restaurant is a good place to drop by!",
+      "Similar Brands": "T.G.I. FRIDAY'S, YAKITATE, NANDO'S",
+      "Other Info": NaN
+    },
+    "KAMAT": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "045542747",
+      "Location": "Persia Court",
+      "Description": "Vegetarians, Indian food lovers, and everyone in between, Kamat Vegetarian Restaurant will soon be your favourite spot. Kamat is widely regarded as one of the best vegetarian restaurants in Dubai.",
+      "Similar Brands": "NANDO'S, T.G.I. FRIDAY'S, OFF THE HOOK",
+      "Other Info": "At KamatRestaurant in Dubai, you'll be spoilt for choice with over 300 scrumptious vegetarian delicacies. Whether you're craving North Indian, South Indian, Chinese or some fantastic fusion, you are bound to find all the veggie delights you are looking for.\n\nCome, tantalise your taste buds and awaken your senses with a burst of flavours. There's no better way to satiate your appetite.\n"
+    },
+    "Hadoota Masreya": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "044405962",
+      "Location": "India Court",
+      "Description": "If you're looking for delicious Egyptian dishes, Hadoota Masreya in Dubai will surely hit the spot.",
+      "Similar Brands": "PIZZA EXPRESS, YAKITATE, T.G.I. FRIDAY'S",
+      "Other Info": "The beginning of Hadoota Masreya was not just an Egyptian restaurant that was established in Dubai in the year 2011, but rather to fulfill a dream that had always entranced Egyptians who came to the Emirates with their constant feeling of love and nostalgia for our homeland, Egypt.\nVisit Hadoota Masreya, located in the India Court, for a delightful experience.\n"
+    },
+    "Nando's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0544300729",
+      "Location": "China Court",
+      "Description": "The popular Nandos restaurant is famed for its trademark butterfly cut and flame-grilled Peri Peri chicken. Their journey began centuries ago when Portuguese explorers stepped on the African continent.",
+      "Similar Brands": "COTERIE SOCIAL AND KITCHEN, XENIA CAFE AND LOUNGE, GAZEBO",
+      "Other Info": "Step into Nandos Dubai now to experience the same Afro-Portuguese heritage that is the basis of their signature dishes. You can guarantee top service and hospitality that Nando's restaurant in Dubai offers the warm hospitality that Africa is famous for.\n"
+    },
+    "India Palace": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "+971 4 368 5569",
+      "Location": "China Court",
+      "Description": "India Palace Restaurant Dubai is an exciting casual dining concept that focuses on Indian cuisine. Their menu is quite extensive and pay homage to Mughlai cuisine which was developed in the Medieval era of Indias history. All the ingredients used in their dishes are taken from only the best suppliers to ensure their high standards of quality are met. All of this is set within a warm and soothing ambiance that sets the perfect stage to enjoy an exotic gourmet experience.",
+      "Similar Brands": "COTERIE SOCIAL AND KITCHEN, PIZZA EXPRESS, HATAM RESTAURANT",
+      "Other Info": NaN
+    },
+    "Hatam Restaurant": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "0554025632",
+      "Location": "China Court",
+      "Description": "Discover the finest dishes in Iranian and Persian cuisine at Hatam Restaurant Dubai. After it was opened in 1989, the eatery has kept growing from strength to strength and is now always an inclusion when it comes to the topic of the best restaurants currently in Dubai. With a completely authentic Iranian interior d\u00e9cor and an extensive menu that focuses on Iranian and Persian cuisine, Hatam Restaurant promises to be an experience that sticks to your mind long after your visit!",
+      "Similar Brands": "GAZEBO, BARBEQUE DELIGHTS, COTERIE SOCIAL AND KITCHEN",
+      "Other Info": NaN
+    },
+    "T.G.I. Friday's": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "048826395",
+      "Location": "China Court",
+      "Description": NaN,
+      "Similar Brands": "INDIA PALACE, PIZZA EXPRESS, HATAM RESTAURANT",
+      "Other Info": NaN
+    },
+    "Off the Hook": {
+      "Working Hours": "Open at 10:00 AM",
+      "Contact Number": "048800500",
+      "Location": "Persia Court",
+      "Description": "Off the Hook in Dubai is a unique and fun dining experience where the words \u201chealthy and delicious\u201d blend together perfectly.",
+      "Similar Brands": "VERDURA, KAMAT, NANDO'S",
+      "Other Info": "With Louisiana-style dishes, Off the Hook is a seafood restaurant that takes pride in preparing sumptuous meals in their most natural form possible.\nOff The Hook restaurant specializes in seafood boils made from the freshest ingredients and produce available, complemented by our chefs distinctive blend of sauces.\nWith its laid-back, cozy, and warm atmosphere, be prepared to dive in and eat with your hands! A place where you can be certain to receive an incredible dining experience from the best seafood restaurant in Dubai.\n"
+    },
+    "The Qasab": {
+      "Working Hours": "Open at 9:00 AM",
+      "Contact Number": "04-5831973",
+      "Location": "China Court",
+      "Description": "The Qasab Restaurant is the true taste of Turkey in Dubai. Located at the China Garden of The Ibn Battuta Mall, The restaurant serves Breakfast, Food, Desserts, Coffee, Drinks & Shisha to its customer in its own innovative style. The restaurant is famous for serving meat specialties and dessert delicacies. Enjoy a premium dining experience with our new exotic menu. ",
+      "Similar Brands": "NANDO'S, VERDURA, PIZZA EXPRESS",
+      "Other Info": NaN
+    },
+    "Gazebo": {
+      "Working Hours": "Open at 10:30 AM",
+      "Contact Number": "044538433",
+      "Location": "Persia Court",
+      "Description": "The pioneers of 'Dum Pukht' biryani in the UAE, and home of the finest Indian fare, Gazebo is acclaimed for exquisite delicacies, authentically prepared using age-old recipes from the Mughal era. With an impressively extensive menu of luscious kababs, sumptuous curries, aromatic biryanis and more, there's something to satisfy every gourmand. Come, luxuriate in flavours of the yesteryears. You are in for a dining experience like no other at the best Indian restaurant in Dubai.",
+      "Similar Brands": "OFF THE HOOK, KAMAT, NANDO'S",
+      "Other Info": NaN
+    },
+    "Coterie Social and Kitchen": {
+      "Working Hours": "Open at 8:00 AM",
+      "Contact Number": "045708072",
+      "Location": "China Court",
+      "Description": "For a delicious meal, visit Coterie Social and Kitchen at Ibn Battuta Mall. You don't want to miss the chance to dine at a top family restaurant in Dubai. Enjoy an evening at Dubai's local British Sports Brasserie.",
+      "Similar Brands": "THE QASAB, NANDO'S, VERDURA",
+      "Other Info": NaN
+    }
+  }
+}
